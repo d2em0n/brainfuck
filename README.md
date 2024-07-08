@@ -1,1 +1,1 @@
-# brainfuck
+# brainfuck interpreter (ulearn practice)
